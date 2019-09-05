@@ -92,7 +92,6 @@ background-size: cover;
 position: relative;
 text-align: center;
 align-items: center;
-
 }
 .hero .down-arrow a{
 color: #fff;
@@ -636,7 +635,7 @@ margin-bottom:15px;
 text-shadow: -2.5px 0 black, 0 2.5px black, 2.5px 0 black, 0 -2.5px black;
 }
 .hero{
-background: url("../../assets/img/bg.jpg") center center;
+background: url("../../assets/img/bg.jpg") center inherit;
 }
 .hero-text h2 {
 font-size:1em;
