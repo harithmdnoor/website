@@ -1,11 +1,4 @@
-/*
-*	 Title: Pixel Portfolio Stylesheet
-*  Author: Krishnakanth Alagiri (KK)
-*  Repo: https://github.com/KrishnaAlagiri/Pixel-Portfolio-Webite
-*  Issues: https://github.com/KrishnaAlagiri/Pixel-Portfolio-Webite/issues
-*  Description: This file contains all the styles associated with the page
-*/
-/* General Attributes */
+
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,900|Source+Sans+Pro:300,400');
 @font-face {
 font-family: "retro";
@@ -91,7 +84,7 @@ cursor: URL("../../assets/img/cursor/cursor-click.png"),active;
 /* Hero section */
 .hero {
 min-height: 750px;
-background: url("../../assets/img/hero-min.gif") center center;
+background: url("../../assets/img/bg.jpg") center center;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -152,7 +145,7 @@ position:absolute;
 height:100%;
 width:100%;
 top right bottom left:0;
-background:rgba(236, 175, 8, 0.2);
+
 }
 /* About Section */
 #about {
@@ -186,6 +179,9 @@ font-size: 1.6em;
 #about p {
 color: #74808a;
 margin: 0;
+align-items: center;
+justify-content: center;
+text-align:center;
 padding-bottom: 30px;
 padding-right: 11em;
 font-size: 1.3em;
@@ -297,6 +293,11 @@ border: 3px solid #949494;
 }
 .project-image {
 float: left;
+padding:20px;
+}
+.project-sad_cat {
+float: right;
+padding:20px;
 }
 .project-cc-image {
 min-width: 300px;
@@ -606,7 +607,7 @@ width: auto;
 float: none;
 }
 #about p {
-text-align: left;
+text-align: center;
 width: auto;
 float: none;
 padding-right: 1em;
@@ -634,7 +635,7 @@ margin-bottom:15px;
 text-shadow: -2.5px 0 black, 0 2.5px black, 2.5px 0 black, 0 -2.5px black;
 }
 .hero{
-background: url("../../assets/img/hero-mob.jpg") center center;
+background: url("../../assets/img/bg.jpg") center center;
 }
 .hero-text h2 {
 font-size:1em;
