@@ -92,6 +92,7 @@ background-size: cover;
 position: relative;
 text-align: center;
 align-items: center;
+background:no-repeat;
 }
 .hero .down-arrow a{
 color: #fff;
