@@ -99,7 +99,7 @@ color: #fff;
 font-size: 30px;
 position: absolute;
 bottom: 30px;
-left:48%;
+left: 50%;
 animation: pulsate 1.4s ease;
 animation-iteration-count: infinite;
 padding-top: 5px
@@ -594,7 +594,6 @@ transform: translateX(26px);
 /* @media queries */
 /* Tablets (Mostly iPads, 992px and below) */
 @media only screen and (max-width: 1425px){
- 
 #about {
 display: block;
 position: relative;
