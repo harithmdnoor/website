@@ -3,9 +3,11 @@
     "",
     "\\assets",
     "\\assets\\css",
+    "\\assets\\img",
     "\\docs",
-    "\\libs"
+    "\\libs",
+    "\\libs\\fonts"
   ],
-  "SelectedNode": "\\libs",
+  "SelectedNode": "\\libs\\fonts\\dpcomic.ttf",
   "PreviewInSolutionExplorer": false
 }
