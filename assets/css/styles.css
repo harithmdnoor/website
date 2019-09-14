@@ -366,12 +366,8 @@ border: 3px solid #868687;
 /* contact Section */
 #contact-me {
 padding: 50px 15px;
-/*Blue Just in case*/
-/*background:#3498db;*/
-/*Orange (alt. #ffa500)*/
-background: #f39c12;
 text-align: center;
-background-image: url("../../assets/img/contact_us.jpg");
+background-image: url("../../assets/img/stone.png");
 }
 #contact-me h2 {
 margin: 0 0 15px 0;

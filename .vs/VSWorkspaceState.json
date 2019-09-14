@@ -2,12 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\css",
     "\\assets\\img",
-    "\\docs",
+    "\\assets\\img\\Alternatives",
+    "\\assets\\img\\cursor",
+    "\\assets\\img\\icons",
+    "\\assets\\img\\PSD",
     "\\libs",
+    "\\libs\\font-awesome",
     "\\libs\\fonts"
   ],
-  "SelectedNode": "\\assets\\img\\fallback.jpg",
+  "SelectedNode": "\\assets\\css\\styles.css",
   "PreviewInSolutionExplorer": false
 }
