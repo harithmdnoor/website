@@ -51,7 +51,7 @@ width: 50px;
 left: 0;
 right: 0;
 margin: 0 auto;
-background: #db8e35;
+background: #000000;
 }
 .btn {
 color:inherit;
@@ -679,5 +679,10 @@ display: inline-block;
 .social-mob a:hover {
 color: #f39c12;
 transition:.3s ease all;
-}
+}}
+#community{
+color: #374054;
+margin-bottom: 30px;
+text-align: center;
+padding-top:30px;
 }
