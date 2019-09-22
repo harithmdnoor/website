@@ -3,14 +3,12 @@
     "",
     "\\assets",
     "\\assets\\img",
-    "\\assets\\img\\Alternatives",
-    "\\assets\\img\\cursor",
     "\\assets\\img\\icons",
     "\\assets\\img\\PSD",
     "\\libs",
     "\\libs\\font-awesome",
     "\\libs\\fonts"
   ],
-  "SelectedNode": "\\assets\\css\\styles.css",
+  "SelectedNode": "\\assets\\img\\icons",
   "PreviewInSolutionExplorer": false
 }
