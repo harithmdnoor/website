@@ -400,7 +400,7 @@ width: 105%;
 }
 #contact-me-form input:focus,#contact-me-form textarea:focus,#contact-me-form textarea:hover,#contact-me-form input:hover {
 outline: none;
-color: #b35542;
+color: #000000;
 }
 #contact-me-form input::-webkit-input-placeholder,#contact-me-form textarea::-webkit-input-placeholder {
 color: #f2f2f2;
