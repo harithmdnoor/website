@@ -3,11 +3,12 @@
     "",
     "\\assets",
     "\\assets\\css",
+    "\\js",
     "\\libs",
     "\\libs\\font-awesome",
     "\\libs\\font-awesome\\css",
     "\\libs\\fonts"
   ],
-  "SelectedNode": "\\assets\\css\\styles.css",
+  "SelectedNode": "\\LICENSE",
   "PreviewInSolutionExplorer": false
 }
