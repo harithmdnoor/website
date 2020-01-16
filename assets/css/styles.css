@@ -141,13 +141,7 @@ color: #ffca8a;
 text-shadow: -2px 0 black, 0 2px #000, 2px 0 #000, 0 -2px #000;
 margin-bottom:15px
 }
-#hero-overlay {
-position:absolute;
-height:100%;
-width:100%;
-top right bottom left:0;
 
-}
 /* About Section */
 #about {
 display: flex;
