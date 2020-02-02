@@ -12,7 +12,6 @@ html {
 scroll-behavior: smooth;
 font-size: 18px;
 -webkit-font-smoothing: antialiased;
-cursor: URL("../../assets/img/cursor/cursor.png"), auto !important;
 }
 body {
 margin: 0;
@@ -69,17 +68,14 @@ padding-top: 10px;
 margin: 0;
 }
 a, .slider {
-cursor: URL("../../assets/img/cursor/cursor-click.png"), auto;
 }
 .btn:hover {
 box-shadow: 0.4rem 0.4rem 0rem black;
-cursor: URL("../../assets/img/cursor/cursor-click.png"), auto;
 /*transform: translate(-0.4rem, -0.4rem);*/
 }
 .btn:active {
 box-shadow: 0 0 0 black;
 transform: translate(0, 0);
-cursor: URL("../../assets/img/cursor/cursor-click.png"),active;
 }
 /* Hero section */
 .hero {
@@ -406,9 +402,7 @@ background: white;
 margin-right: 2.6rem;
 border: 3px solid black;
 }
-#contact-me-form textarea:focus,#contact-me-form input:focus,#contact-me-form textarea:hover,#contact-me-form input:hover{
-cursor: URL("../../assets/img/cursor/cursor-edit.png"), auto;
-}
+
 #contact-me-form textarea:focus,#contact-me-form input:focus {
 border: 3px solid #209cee;
 box-shadow: 0 0 0 #209cee;
