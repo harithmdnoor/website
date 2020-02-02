@@ -67,8 +67,7 @@ padding-top: 10px;
 .btn:last-child {
 margin: 0;
 }
-a, .slider {
-}
+
 .btn:hover {
 box-shadow: 0.4rem 0.4rem 0rem black;
 /*transform: translate(-0.4rem, -0.4rem);*/
