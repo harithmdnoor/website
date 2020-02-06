@@ -21,6 +21,10 @@ font-family: 'retro1', sans-serif;
 line-height: 1.15;
 font-size: 16px;
 }
+.redText
+{
+    color: red;
+}
 .background-alt {
 background: #F5F5F5;
 margin: 0;
