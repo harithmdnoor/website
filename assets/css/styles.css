@@ -13,6 +13,7 @@ scroll-behavior: smooth;
 font-size: 18px;
 -webkit-font-smoothing: antialiased;
 }
+
 body {
 margin: 0;
 padding: 0;
@@ -693,4 +694,5 @@ padding-top:30px;
     list-style: none;
     font-size: 1.3em;
     border: 3px solid #868687;
-    }
+}
+
