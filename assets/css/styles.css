@@ -12,6 +12,7 @@ html {
 scroll-behavior: smooth;
 font-size: 18px;
 -webkit-font-smoothing: antialiased;
+background-color: white;
 }
 
 body {
@@ -21,6 +22,11 @@ border: none;
 font-family: 'retro1', sans-serif;
 line-height: 1.15;
 font-size: 16px;
+background-color: white;
+
+}
+h3{
+    text-align: center;
 }
 .redText
 {
@@ -357,15 +363,40 @@ list-style: none;
 font-size: 1.3em;
 border: 3px solid #868687;
 }
+/* blog Section */
+#blog {
+padding: 50px 15px;
+text-align: center;
+}
+#blog h2 {
+color: #374054;
+margin-bottom: 30px;
+}
+#blog ul {
+display: block;
+margin: 0 auto;
+padding: 0;
+max-width: 800px;
+}
+#blog li {
+display: inline-block;
+margin: 7px;
+padding: 5px 10px;
+color: #374054;
+background: #e4e4ea;
+list-style: none;
+font-size: 1.3em;
+border: 3px solid #868687;
+}
 /* contact Section */
 #contact-me {
 padding: 50px 15px;
 text-align: center;
-background-image: url("../../assets/img/stone.png");
+background: url("../../assets/img/stone.png") center center;
 }
 #contact-me h2 {
 margin: 0 0 15px 0;
-color: #fff;
+color: white;
 font-weight: 500;
 }
 #contact-me-form {
