@@ -653,7 +653,15 @@ float: none;
 padding-right: 1em;
 padding-left: 1em;
 }
+
+.about-info {
+    position: relative;
+    margin: 0;
+    padding: 30px 15px;
+    top: auto;
+    transform: none;
 }
+
 /* If the orientation of the screen is Portrait */
 @media only screen and (orientation: Portrait) {
 .btn {
@@ -690,6 +698,9 @@ margin: 0;
 padding: 30px 15px;
 top: auto;
 transform: none;
+}
+.about-image {
+    display: none;
 }
 #contact-me-form {
 width: 70%;
