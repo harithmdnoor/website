@@ -149,7 +149,8 @@ font-weight:400;
 font-size:2em;
 color: #ffca8a;
 text-shadow: -2px 0 black, 0 2px #000, 2px 0 #000, 0 -2px #000;
-margin-bottom:15px
+margin-bottom:15px;
+word-spacing: 15px;
 }
 .about-info {
     position: absolute;
