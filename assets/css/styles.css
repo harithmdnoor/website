@@ -688,6 +688,7 @@ background: url("../../assets/img/bg.jpg") center inherit;
 .hero-text h2 {
 font-size:1em;
 margin-bottom:15px;
+word-spacing: 15px;
 }
 .project-image {
 display: none;
