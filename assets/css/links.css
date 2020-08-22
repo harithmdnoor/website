@@ -20,6 +20,10 @@ html{
 .fa:hover {
     opacity: 0.7;
 }
+.fa-github{
+  background:black;
+  color:white;
+}
 .fa-whatsapp{
   background:green;
   color:white;
@@ -28,16 +32,14 @@ html{
   background: #55ACEE;
   color: white;
 }
-
 .fa-linkedin {
   background: #007bb5;
   color: white;
 }
 .fa-telegram{
-  background:black;
+  background:#0088CC;
   color:white;
 }
-
 .fa-instagram {
     background-image: linear-gradient(to right, #F58529 , #FEDA77,#DD2A7B,#8134AF,#515BD4); /* Standard syntax (must be last) */  color: white;
 }
@@ -45,53 +47,51 @@ html{
   /* For desktop: */
   body{
     text-align: center;
-}
+  }
   .fa-h2{
     font-size: 5vw;
     color: white;
-}
+  }
   .fa-whatsapp{
     padding: 20px;
     font-size: 75px;
     width: 75px;
     border-radius:50%;
     margin-right: 20px;
-}
-.fa-twitter {
-  padding: 20px;
+  }
+  .fa-twitter {
+    padding: 20px;
     font-size: 75px;
     width: 75px;
     border-radius:50%;
     margin-right: 20px;
-
-  
-}
-
-.fa-linkedin {
-  padding: 20px;
+  }
+  .fa-github{
+    padding: 20px;
     font-size: 75px;
     width: 75px;
     border-radius:50%;
     margin-right: 20px;
-
- 
-}
-.fa-telegram{
-  padding: 20px;
+  }
+  .fa-linkedin {
+    padding: 20px;
     font-size: 75px;
     width: 75px;
     border-radius:50%;
     margin-right: 20px;
-
- 
-}
-
-.fa-instagram {
-  padding: 20px;
+  }
+  .fa-telegram{
+    padding: 20px;
     font-size: 75px;
     width: 75px;
     border-radius:50%;
     margin-right: 20px;
-
+  }
+  .fa-instagram {
+    padding: 20px;
+    font-size: 75px;
+    width: 75px;
+    border-radius:50%;
+    margin-right: 20px;
   }
 }
