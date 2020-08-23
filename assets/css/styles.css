@@ -144,6 +144,15 @@ line-height:1.1em;
 margin-bottom:15px;
 text-shadow: -5px 0 black, 0 5px black, 5px 0 black, 0 -5px black;
 }
+.hero-text-a{
+text-decoration: none;
+color:white
+}
+.hero-text-a:hover{
+color:black;
+text-shadow: -5px 0 white, 0 5px white, 5px 0 white, 0 -5px white;
+
+}
 .hero-text h2 {
 color:#1a1611;
 font-family: "retro", sans-serif;
