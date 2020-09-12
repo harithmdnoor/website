@@ -106,6 +106,22 @@ text-align: center;
 align-items: center;
 
 }
+.resume{
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: #374054;
+    background: #e4e4ea;
+    list-style: none;
+    font-size: 1.3em;
+    border: 3px solid #868687;
+    text-decoration-line: none;
+}
+.resume:hover{
+    color: white;
+    background:black;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
 .hero .down-arrow a{
 color: #fff;
 font-size: 30px;
@@ -747,28 +763,5 @@ display: inline-block;
 color: #f39c12;
 transition:.3s ease all;
 }}
-#community{
-color: #374054;
-margin-bottom: 30px;
-text-align: center;
-padding-top:30px;
-}
-#community ul {
-    display: block;
-    margin: 0 auto;
-    padding: 0;
-    max-width: 800px;
-}
-
-#community li {
-    display: inline-block;
-    margin: 7px;
-    padding: 5px 10px;
-    color: #374054;
-    background: #e4e4ea;
-    list-style: none;
-    font-size: 1.3em;
-    border: 3px solid #868687;
-}
 
 }
